@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        
+
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500&display=swap" rel="stylesheet" />
+
+		<title>Arthur Vidinha</title>
+	</head>
+	<body>
+		<div class="fundo-video">
+			<video class="video" autoplay loop>
+				<source src="./src/video/kiminotoriko.mp4" type="video/mp4" />
+			</video>
+		</div>
+
+		<main class="container">
+			<div class="informacoes"
+				<p class="descricao">Arthur Vinícius Nunes 😏</p>
+				<button class="botao-trailer">se apertar quer me dar</button>
+			</div>
+		</main>
+	</body>
+</html>
